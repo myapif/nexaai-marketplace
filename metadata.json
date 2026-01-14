@@ -1,0 +1,7 @@
+{
+  "name": "NexaAi Marketplace",
+  "description": "A comprehensive service marketplace application for booking cleaning, moving, errands, and more. Features smart task assistance powered by Gemini and a clean, mobile-first UI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
